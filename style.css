@@ -1,0 +1,20 @@
+.pai{
+    width: 500px; height: 500px; background-color: #FFA500;
+ }
+ .b{
+
+    background-color: #BDECB6; height: 250px; width: 250px;
+ }
+ p{
+
+    color: white; background-color: red; font: 25px; font-family: monospace; font-weight: bold;
+ }
+ .c{
+
+    width: 50vh; height: 50vh; background-color: rgb(173, 216, 230);
+ }
+ .d{
+
+    width: 75vh; height: 50%; background-color: rgb(255, 0, 0);
+
+ }
